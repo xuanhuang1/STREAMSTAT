@@ -2,6 +2,7 @@
 #define STATS_DEFINITIONS_H
 
 #include <stdint.h>
+#include <cassert>
 
 static const double gStatisticsMaxValue = 10e34;
 static const double gStatisticsMinValue = -10e34;

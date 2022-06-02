@@ -1,4 +1,5 @@
 #include <fstream>
+#include <cstring>
 #include "Variance.h"
 
 namespace Statistics {

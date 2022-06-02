@@ -1,4 +1,5 @@
 #include <fstream>
+#include <cstring>
 #include "Sum.h"
 
 namespace Statistics {

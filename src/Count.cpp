@@ -1,5 +1,6 @@
 #include <fstream>
 #include <cassert>
+#include <cstring>
 #include "Count.h"
 
 namespace Statistics {
